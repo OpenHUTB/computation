@@ -1,13 +1,7 @@
-GNU Octave -- a high-level language for numerical computations
-==============================================================
+# 数值计算的高级语言
 
-Copyright (C) 1996-2023 The Octave Project Developers
 
-See the file COPYRIGHT.md in the top-level directory of this
-distribution or <https://octave.org/copyright/>.
-
-Overview
---------
+## 概述
 
 GNU Octave is a high-level interpreted language, primarily intended
 for numerical computations.  It provides capabilities for the
@@ -33,8 +27,7 @@ You should have received a copy of the GNU General Public License
 along with Octave; see the file COPYING.  If not, see
 <https://www.gnu.org/licenses/>.
 
-Availability
-------------
+## 可用性
 
 The latest released version of Octave is always available from
 <https://ftp.gnu.org/gnu/octave/> and many mirror sites around the
@@ -43,8 +36,7 @@ world.  You may also find links to binary distributions at
 sources may be found under the Source Code tab on
 [Savannah](https://savannah.gnu.org/projects/octave/).
 
-Installation
-------------
+## 安装
 
 Octave requires approximately 475 MB of disk storage to unpack and
 compile from source (significantly more, 3.8 GB, if you compile with
@@ -68,16 +60,14 @@ like `fort77` that works like a normal Fortran compiler by combining
 See the notes in the file `INSTALL.OCTAVE` of the Octave source
 distribution for more detailed installation instructions.
 
-Bugs and Patches
-----------------
+## 漏洞和补丁
 
 The file `BUGS` (or `doc/interpreter/bugs.txi`) explains the recommended
 procedure for reporting bugs on the [bug tracker](https://bugs.octave.org)
 or contributing patches; online documentation is also available
 [here](https://www.gnu.org/software/octave/bugs.html).
 
-Documentation
--------------
+## 文档
 
 * [Octave's manual](https://www.octave.org/doc/interpreter/) is a
   comprehensive user guide covering introductive and more advanced
@@ -94,8 +84,12 @@ inconsistencies, please report them at our bug tracker.  Specific
 suggestions for ways to improve Octave and its documentation are
 always welcome.  Reports with patches are even more welcome.
 
-Additional Information
-----------------------
+## 额外信息
+
+Copyright (C) 1996-2023 The Octave Project Developers
+
+See the file COPYRIGHT.md in the top-level directory of this
+distribution or <https://octave.org/copyright/>.
 
 Up to date information about Octave is available on the WWW at
 <https://www.octave.org>, or ask for help via email
